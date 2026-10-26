@@ -1,0 +1,537 @@
+{
+ "gladiolus": {
+  "ety": "Latin",
+  "ety_raw": "gladiolus (Latin)",
+  "zipf": 2.18
+ },
+ "cerise": {
+  "ety": "Old French",
+  "ety_raw": "cerise (Old French (842-ca. 1400))",
+  "zipf": 2.08
+ },
+ "abrogate": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 2.08
+ },
+ "knack": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 3.26
+ },
+ "luxuriance": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 1.2
+ },
+ "albumen": {
+  "ety": "Latin",
+  "ety_raw": "albumen (Latin)",
+  "zipf": 2.05
+ },
+ "fracas": {
+  "ety": "French",
+  "ety_raw": "fracas (French)",
+  "zipf": 2.38
+ },
+ "invulnerable": {
+  "ety": "Latin",
+  "ety_raw": "invulnerabilis (Latin)",
+  "zipf": 2.68
+ },
+ "torsion": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 2.85
+ },
+ "brethren": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 3.51
+ },
+ "intelligible": {
+  "ety": "Latin",
+  "ety_raw": "intelligibilis (Latin)",
+  "zipf": 2.77
+ },
+ "eczema": {
+  "ety": "Ancient Greek",
+  "ety_raw": "ἔκζεμα (Ancient Greek (to 1453))",
+  "zipf": 3.07
+ },
+ "promiscuous": {
+  "ety": "Latin",
+  "ety_raw": "promiscuus (Latin)",
+  "zipf": 2.93
+ },
+ "sanitarium": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 2.66
+ },
+ "canonical": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 3.32
+ },
+ "therapy": {
+  "ety": "Ancient Greek",
+  "ety_raw": "θεραπεία (Ancient Greek (to 1453))",
+  "zipf": 4.52
+ },
+ "initials": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 3.46
+ },
+ "sacrilegious": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 2.43
+ },
+ "semaphore": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 2.55
+ },
+ "chlorophyll": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 2.75
+ },
+ "psychiatry": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 3.56
+ },
+ "dulcimer": {
+  "ety": "Old French",
+  "ety_raw": "doulcemelle (Old French (842-ca. 1400))",
+  "zipf": 2.12
+ },
+ "meticulosity": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "insouciant": {
+  "ety": "French",
+  "ety_raw": "insouciant (French)",
+  "zipf": 1.63
+ },
+ "vignette": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 2.65
+ },
+ "soubrette": {
+  "ety": "French",
+  "ety_raw": "soubrette (French)",
+  "zipf": 1.43
+ },
+ "transept": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 2.35
+ },
+ "crustaceology": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "condominium": {
+  "ety": "Latin",
+  "ety_raw": "condominium (Latin)",
+  "zipf": 3.1
+ },
+ "schappe": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "syllepsis": {
+  "ety": "Latin",
+  "ety_raw": "syllepsis (Latin)",
+  "zipf": 0.0
+ },
+ "catamaran": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 2.58
+ },
+ "eudaemonic": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "smaragdine": {
+  "ety": "Latin",
+  "ety_raw": "smaragdinus (Latin)",
+  "zipf": 0.0
+ },
+ "esquamulose": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "equipage": {
+  "ety": "Middle French",
+  "ety_raw": "equippage (Middle French (ca. 1400-1600))",
+  "zipf": 1.7
+ },
+ "sycophant": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 2.2
+ },
+ "ratoon": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 1.19
+ },
+ "chihuahua": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 3.21
+ },
+ "abalone": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 2.66
+ },
+ "interlocutory": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 1.98
+ },
+ "croissant": {
+  "ety": "French",
+  "ety_raw": "croissant (French)",
+  "zipf": 2.78
+ },
+ "shalloon": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "macerate": {
+  "ety": "Latin",
+  "ety_raw": "maceratus (Latin)",
+  "zipf": 1.51
+ },
+ "vouchsafe": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 1.73
+ },
+ "hydrophyte": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "incisor": {
+  "ety": "Latin",
+  "ety_raw": "incisor (Latin)",
+  "zipf": 2.22
+ },
+ "narcolepsy": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 2.5
+ },
+ "cambist": {
+  "ety": "French",
+  "ety_raw": "cambiste (French)",
+  "zipf": 0.0
+ },
+ "deification": {
+  "ety": "French",
+  "ety_raw": "déification (French)",
+  "zipf": 2.06
+ },
+ "maculature": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "elucubrate": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "sarcophagus": {
+  "ety": "French",
+  "ety_raw": "sarcophage (French)",
+  "zipf": 2.79
+ },
+ "psoriasis": {
+  "ety": "Ancient Greek",
+  "ety_raw": "ψωρίασις (Ancient Greek (to 1453))",
+  "zipf": 2.89
+ },
+ "purim": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 2.45
+ },
+ "luge": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 2.72
+ },
+ "milieu": {
+  "ety": "French",
+  "ety_raw": "milieu (French)",
+  "zipf": 2.93
+ },
+ "odontalgia": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "staphylococci": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 1.68
+ },
+ "elegiacal": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "spoliator": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "fibranne": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "antipyretic": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 1.67
+ },
+ "lyceum": {
+  "ety": "Ancient Greek",
+  "ety_raw": "Λύκειον (Ancient Greek (to 1453))",
+  "zipf": 2.64
+ },
+ "kamikaze": {
+  "ety": "Japanese",
+  "ety_raw": "神風 (Japanese)",
+  "zipf": 2.87
+ },
+ "antediluvian": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 2.08
+ },
+ "xanthosis": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "vivisepulture": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "euonym": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "chiaroscurist": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "logorrhea": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 1.14
+ },
+ "demarche": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 1.4
+ },
+ "succedaneum": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "prospicience": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "pococurante": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "autochthonous": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 2.11
+ },
+ "appoggiatura": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 1.12
+ },
+ "ursprache": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "serrefine": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "guerdon": {
+  "ety": "Old French",
+  "ety_raw": "guerdon (Old French (842-ca. 1400))",
+  "zipf": 1.39
+ },
+ "laodicean": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 1.24
+ },
+ "stromuhr": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "cymotrichous": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "guetapens": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "knaidel": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "stichomythia": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "feuilleton": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 1.47
+ },
+ "nunatak": {
+  "ety": "Kalaallisut",
+  "ety_raw": "nunataq (Kalaallisut)",
+  "zipf": 1.31
+ },
+ "scherenschnitte": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "feldenkrais": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 1.43
+ },
+ "gesellschaft": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 2.62
+ },
+ "marocain": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 1.27
+ },
+ "koinonia": {
+  "ety": "Ancient Greek",
+  "ety_raw": "κοινωνία (Ancient Greek (to 1453))",
+  "zipf": 1.7
+ },
+ "auslaut": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "erysipelas": {
+  "ety": "Ancient Greek",
+  "ety_raw": "ἐρυσίπελας (Ancient Greek (to 1453))",
+  "zipf": 1.66
+ },
+ "bougainvillea": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 2.11
+ },
+ "aiguillette": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "pendeloque": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "palama": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "cernuous": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "odylic": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "murraya": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "moorhen": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 1.59
+ },
+ "psammophile": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 0.0
+ },
+ "abseil": {
+  "ety": "German",
+  "ety_raw": "abseilen (German)",
+  "zipf": 1.89
+ },
+ "eclaircissement": {
+  "ety": "French",
+  "ety_raw": "éclaircissement (French)",
+  "zipf": 0.0
+ },
+ "bromocriptine": {
+  "ety": null,
+  "ety_raw": null,
+  "zipf": 1.47
+ }
+}

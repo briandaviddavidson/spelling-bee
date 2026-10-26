@@ -1,0 +1,818 @@
+[
+ {
+  "year": 1925,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1926,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1927,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1928,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1929,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1930,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1931,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1932,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1933,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1934,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1935,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1936,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1937,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1938,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1939,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1940,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1941,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1942,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1943,
+  "held": false,
+  "reason_not_held": "World War II",
+  "champions": 0,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1944,
+  "held": false,
+  "reason_not_held": "World War II",
+  "champions": 0,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1945,
+  "held": false,
+  "reason_not_held": "World War II",
+  "champions": 0,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1946,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1947,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1948,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1949,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1950,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 2,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1951,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1952,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1953,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1954,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1955,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1956,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1957,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 2,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1958,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1959,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1960,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1961,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1962,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 2,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1963,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1964,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1965,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1966,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1967,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1968,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1969,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1970,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1971,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1972,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1973,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1974,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1975,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1976,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1977,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1978,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1979,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1980,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1981,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1982,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1983,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1984,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1985,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1986,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1987,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1988,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1989,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1990,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1991,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1992,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1993,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1994,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1995,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1996,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1997,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 1998,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": "First champion from outside the United States (Kingston, Jamaica)."
+ },
+ {
+  "year": 1999,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2000,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2001,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2002,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2003,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2004,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2005,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2006,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2007,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2008,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2009,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2010,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2011,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2012,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2013,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2014,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 2,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2015,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 2,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2016,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 2,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2017,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2018,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2019,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 8,
+  "spell_off": false,
+  "note": "The Bee ran out of words hard enough to separate the finalists: eight co-champions."
+ },
+ {
+  "year": 2020,
+  "held": false,
+  "reason_not_held": "COVID-19 pandemic",
+  "champions": 0,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2021,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": "Format overhaul: preliminary test dropped; held at ESPN Wide World of Sports, Florida."
+ },
+ {
+  "year": 2022,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": true,
+  "note": null
+ },
+ {
+  "year": 2023,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2024,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2025,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": false,
+  "note": null
+ },
+ {
+  "year": 2026,
+  "held": true,
+  "reason_not_held": null,
+  "champions": 1,
+  "spell_off": true,
+  "note": null
+ }
+]

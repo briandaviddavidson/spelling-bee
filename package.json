@@ -1,0 +1,40 @@
+{
+  "name": "spelling-bee",
+  "version": "1.0.0",
+  "description": "Data story: Scripps National Spelling Bee champions and winning words, 1925–present",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "fetch-data": "node scripts/fetch-data.mjs",
+    "transform": "node scripts/transform.mjs",
+    "enrich": "python3 scripts/enrich.py",
+    "report": "node scripts/report.mjs",
+    "findings": "node scripts/findings.mjs",
+    "data": "npm run transform && npm run enrich && npm run report && npm run findings",
+    "dev": "vite",
+    "build": "npm run data && vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briandaviddavidson/spelling-bee.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briandaviddavidson/spelling-bee/issues"
+  },
+  "homepage": "https://github.com/briandaviddavidson/spelling-bee#readme",
+  "devDependencies": {
+    "vite": "^6.4.5"
+  },
+  "dependencies": {
+    "@observablehq/plot": "^0.6.17",
+    "all-the-cities": "^3.1.0",
+    "d3": "^7.9.0",
+    "topojson-client": "^3.1.0",
+    "us-atlas": "^3.0.1"
+  },
+  "type": "module",
+  "private": true
+}

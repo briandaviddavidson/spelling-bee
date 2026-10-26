@@ -1,0 +1,24 @@
+{
+ "disagreements": [
+  "1931 Ward Randall: Wikipedia “foulard” vs official “fracas”",
+  "1949 Kim Calvin: Wikipedia “onerous” vs official “dulcimer”",
+  "2015 Vanya Shivashankar: Wikipedia “scherenschnitte” vs official “nunatak”",
+  "2015 Gokul Venkatachalam: Wikipedia “nunatak” vs official “scherenschnitte”"
+ ],
+ "resolved": [
+  "1931 Ward Randall: word → “fracas”. Wikipedia lists \"foulard\"; the Bee's official 1931 page says Randall won by spelling \"fracas\". (https://history.spellingbee.com/year/1931/)",
+  "1949 Kim Calvin: word → “dulcimer”. Wikipedia lists \"onerous\"; the Bee's official 1949 page says Calvin won by spelling \"dulcimer\". (https://history.spellingbee.com/year/1949/)",
+  "2001 Sean Conley: city → “Aitkin”. Wikipedia spells the town \"Aitken\"; the sponsor (Aitkin Independent Age) and GeoNames both use \"Aitkin\", Minnesota. (https://history.spellingbee.com/2000s-champions/)",
+  "2015 Vanya Shivashankar: word → “nunatak”. Wikipedia pairs Vanya Shivashankar with \"scherenschnitte\"; the official 2015 page credits her with \"nunatak\". (https://history.spellingbee.com/year/2015/)",
+  "2015 Gokul Venkatachalam: word → “scherenschnitte”. Wikipedia pairs Gokul Venkatachalam with \"nunatak\"; the official 2015 page credits him with \"scherenschnitte\". (https://history.spellingbee.com/year/2015/)",
+  "2019 Saketh Sundar: coords → “39.2052,-76.9510”. Clarksville, MD is not in the offline GeoNames city list; coordinates for ZIP 21029 used instead. (https://www.zip-codes.com/city/md-clarksville.asp)"
+ ],
+ "unmatched": [],
+ "geocode": [],
+ "missing": [],
+ "notes": [
+  "1967: casing differs — Wikipedia “chihuahua”, official decade page “Chihuahua” (kept Wikipedia)",
+  "2021: casing differs — Wikipedia “murraya”, official decade page “Murraya” (kept Wikipedia)",
+  "Word won more than once: “eczema” (1936, 1965)"
+ ]
+}

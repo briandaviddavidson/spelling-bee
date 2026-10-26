@@ -1,0 +1,1409 @@
+[
+ {
+  "year": 1925,
+  "decade": 1920,
+  "word": "gladiolus",
+  "letters": 9,
+  "champions": [
+   "Frank Neuhauser"
+  ],
+  "origin_raw": "Latin",
+  "origin": "Latin",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 2.18
+ },
+ {
+  "year": 1926,
+  "decade": 1920,
+  "word": "cerise",
+  "letters": 6,
+  "champions": [
+   "Pauline Bell"
+  ],
+  "origin_raw": "Old French",
+  "origin": "French",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 2.08
+ },
+ {
+  "year": 1927,
+  "decade": 1920,
+  "word": "abrogate",
+  "letters": 8,
+  "champions": [
+   "Dean Lucas"
+  ],
+  "origin_raw": "Latin",
+  "origin": "Latin",
+  "origin_source": "https://en.wiktionary.org/wiki/abrogate",
+  "zipf": 2.08
+ },
+ {
+  "year": 1928,
+  "decade": 1920,
+  "word": "knack",
+  "letters": 5,
+  "champions": [
+   "Betty Robinson"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 3.26
+ },
+ {
+  "year": 1929,
+  "decade": 1920,
+  "word": "luxuriance",
+  "letters": 10,
+  "champions": [
+   "Virginia Hogan"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 1.2
+ },
+ {
+  "year": 1930,
+  "decade": 1930,
+  "word": "albumen",
+  "letters": 7,
+  "champions": [
+   "Helen Jensen"
+  ],
+  "origin_raw": "Latin",
+  "origin": "Latin",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 2.05
+ },
+ {
+  "year": 1931,
+  "decade": 1930,
+  "word": "fracas",
+  "letters": 6,
+  "champions": [
+   "Ward Randall"
+  ],
+  "origin_raw": "French",
+  "origin": "French",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 2.38
+ },
+ {
+  "year": 1932,
+  "decade": 1930,
+  "word": "invulnerable",
+  "letters": 12,
+  "champions": [
+   "Dorothy Greenwald"
+  ],
+  "origin_raw": "Latin",
+  "origin": "Latin",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 2.68
+ },
+ {
+  "year": 1933,
+  "decade": 1930,
+  "word": "torsion",
+  "letters": 7,
+  "champions": [
+   "Alma Roach"
+  ],
+  "origin_raw": "French",
+  "origin": "French",
+  "origin_source": "https://en.wiktionary.org/wiki/torsion",
+  "zipf": 2.85
+ },
+ {
+  "year": 1934,
+  "decade": 1930,
+  "word": "brethren",
+  "letters": 8,
+  "champions": [
+   "Sarah Wilson"
+  ],
+  "origin_raw": "Old English",
+  "origin": "Old/Middle English",
+  "origin_source": "https://en.wiktionary.org/wiki/brethren",
+  "zipf": 3.51
+ },
+ {
+  "year": 1935,
+  "decade": 1930,
+  "word": "intelligible",
+  "letters": 12,
+  "champions": [
+   "Clara Mohler"
+  ],
+  "origin_raw": "Latin",
+  "origin": "Latin",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 2.77
+ },
+ {
+  "year": 1936,
+  "decade": 1930,
+  "word": "eczema",
+  "letters": 6,
+  "champions": [
+   "Jean Trowbridge"
+  ],
+  "origin_raw": "Ancient Greek",
+  "origin": "Greek",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 3.07
+ },
+ {
+  "year": 1937,
+  "decade": 1930,
+  "word": "promiscuous",
+  "letters": 11,
+  "champions": [
+   "Waneeta Rose Beckley"
+  ],
+  "origin_raw": "Latin",
+  "origin": "Latin",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 2.93
+ },
+ {
+  "year": 1938,
+  "decade": 1930,
+  "word": "sanitarium",
+  "letters": 10,
+  "champions": [
+   "Marian Richardson"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 2.66
+ },
+ {
+  "year": 1939,
+  "decade": 1930,
+  "word": "canonical",
+  "letters": 9,
+  "champions": [
+   "Elizabeth Ann Rice"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 3.32
+ },
+ {
+  "year": 1940,
+  "decade": 1940,
+  "word": "therapy",
+  "letters": 7,
+  "champions": [
+   "Laurel Kuykendall"
+  ],
+  "origin_raw": "Ancient Greek",
+  "origin": "Greek",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 4.52
+ },
+ {
+  "year": 1941,
+  "decade": 1940,
+  "word": "initials",
+  "letters": 8,
+  "champions": [
+   "Louis Edward Sissman"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 3.46
+ },
+ {
+  "year": 1942,
+  "decade": 1940,
+  "word": "sacrilegious",
+  "letters": 12,
+  "champions": [
+   "Richard Earnhart"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 2.43
+ },
+ {
+  "year": 1946,
+  "decade": 1940,
+  "word": "semaphore",
+  "letters": 9,
+  "champions": [
+   "John McKinney"
+  ],
+  "origin_raw": "French",
+  "origin": "French",
+  "origin_source": "https://en.wiktionary.org/wiki/semaphore",
+  "zipf": 2.55
+ },
+ {
+  "year": 1947,
+  "decade": 1940,
+  "word": "chlorophyll",
+  "letters": 11,
+  "champions": [
+   "Mattie Lou Pollard"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 2.75
+ },
+ {
+  "year": 1948,
+  "decade": 1940,
+  "word": "psychiatry",
+  "letters": 10,
+  "champions": [
+   "Jean Chappelear"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 3.56
+ },
+ {
+  "year": 1949,
+  "decade": 1940,
+  "word": "dulcimer",
+  "letters": 8,
+  "champions": [
+   "Kim Calvin"
+  ],
+  "origin_raw": "Old French",
+  "origin": "French",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 2.12
+ },
+ {
+  "year": 1950,
+  "decade": 1950,
+  "word": "meticulosity",
+  "letters": 12,
+  "champions": [
+   "Diana Reynard",
+   "Colquitt Dean"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 1951,
+  "decade": 1950,
+  "word": "insouciant",
+  "letters": 10,
+  "champions": [
+   "Irving Belz"
+  ],
+  "origin_raw": "French",
+  "origin": "French",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 1.63
+ },
+ {
+  "year": 1952,
+  "decade": 1950,
+  "word": "vignette",
+  "letters": 8,
+  "champions": [
+   "Doris Ann Hall"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 2.65
+ },
+ {
+  "year": 1953,
+  "decade": 1950,
+  "word": "soubrette",
+  "letters": 9,
+  "champions": [
+   "Elizabeth Hess"
+  ],
+  "origin_raw": "French",
+  "origin": "French",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 1.43
+ },
+ {
+  "year": 1954,
+  "decade": 1950,
+  "word": "transept",
+  "letters": 8,
+  "champions": [
+   "William Cashore"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 2.35
+ },
+ {
+  "year": 1955,
+  "decade": 1950,
+  "word": "crustaceology",
+  "letters": 13,
+  "champions": [
+   "Sandra Sloss"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 1956,
+  "decade": 1950,
+  "word": "condominium",
+  "letters": 11,
+  "champions": [
+   "Melody Sachko"
+  ],
+  "origin_raw": "Latin",
+  "origin": "Latin",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 3.1
+ },
+ {
+  "year": 1957,
+  "decade": 1950,
+  "word": "schappe",
+  "letters": 7,
+  "champions": [
+   "Dana Bennett",
+   "Sandra Owen"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 1958,
+  "decade": 1950,
+  "word": "syllepsis",
+  "letters": 9,
+  "champions": [
+   "Jolitta Schlehuber"
+  ],
+  "origin_raw": "Latin",
+  "origin": "Latin",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 0.0
+ },
+ {
+  "year": 1959,
+  "decade": 1950,
+  "word": "catamaran",
+  "letters": 9,
+  "champions": [
+   "Joel Montgomery"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 2.58
+ },
+ {
+  "year": 1960,
+  "decade": 1960,
+  "word": "eudaemonic",
+  "letters": 10,
+  "champions": [
+   "Henry Feldman"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 1961,
+  "decade": 1960,
+  "word": "smaragdine",
+  "letters": 10,
+  "champions": [
+   "John Capehart"
+  ],
+  "origin_raw": "Latin",
+  "origin": "Latin",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 0.0
+ },
+ {
+  "year": 1962,
+  "decade": 1960,
+  "word": "esquamulose",
+  "letters": 11,
+  "champions": [
+   "Nettie Crawford",
+   "Michael Day"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 1963,
+  "decade": 1960,
+  "word": "equipage",
+  "letters": 8,
+  "champions": [
+   "Glen Van Slyke III"
+  ],
+  "origin_raw": "Middle French",
+  "origin": "French",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 1.7
+ },
+ {
+  "year": 1964,
+  "decade": 1960,
+  "word": "sycophant",
+  "letters": 9,
+  "champions": [
+   "William Kerek"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 2.2
+ },
+ {
+  "year": 1965,
+  "decade": 1960,
+  "word": "eczema",
+  "letters": 6,
+  "champions": [
+   "Michael Kerpan Jr."
+  ],
+  "origin_raw": "Ancient Greek",
+  "origin": "Greek",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 3.07
+ },
+ {
+  "year": 1966,
+  "decade": 1960,
+  "word": "ratoon",
+  "letters": 6,
+  "champions": [
+   "Robert A. Wake"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 1.19
+ },
+ {
+  "year": 1967,
+  "decade": 1960,
+  "word": "chihuahua",
+  "letters": 9,
+  "champions": [
+   "Jennifer Reinke"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 3.21
+ },
+ {
+  "year": 1968,
+  "decade": 1960,
+  "word": "abalone",
+  "letters": 7,
+  "champions": [
+   "Robert L. Walters"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 2.66
+ },
+ {
+  "year": 1969,
+  "decade": 1960,
+  "word": "interlocutory",
+  "letters": 13,
+  "champions": [
+   "Susan Yoachum"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 1.98
+ },
+ {
+  "year": 1970,
+  "decade": 1970,
+  "word": "croissant",
+  "letters": 9,
+  "champions": [
+   "Libby Childress"
+  ],
+  "origin_raw": "French",
+  "origin": "French",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 2.78
+ },
+ {
+  "year": 1971,
+  "decade": 1970,
+  "word": "shalloon",
+  "letters": 8,
+  "champions": [
+   "Jonathan Knisely"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 1972,
+  "decade": 1970,
+  "word": "macerate",
+  "letters": 8,
+  "champions": [
+   "Robin Kral"
+  ],
+  "origin_raw": "Latin",
+  "origin": "Latin",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 1.51
+ },
+ {
+  "year": 1973,
+  "decade": 1970,
+  "word": "vouchsafe",
+  "letters": 9,
+  "champions": [
+   "Barrie Trinkle"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 1.73
+ },
+ {
+  "year": 1974,
+  "decade": 1970,
+  "word": "hydrophyte",
+  "letters": 10,
+  "champions": [
+   "Julie Ann Junkin"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 1975,
+  "decade": 1970,
+  "word": "incisor",
+  "letters": 7,
+  "champions": [
+   "Hugh Tosteson García"
+  ],
+  "origin_raw": "Latin",
+  "origin": "Latin",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 2.22
+ },
+ {
+  "year": 1976,
+  "decade": 1970,
+  "word": "narcolepsy",
+  "letters": 10,
+  "champions": [
+   "Tim Kneale"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 2.5
+ },
+ {
+  "year": 1977,
+  "decade": 1970,
+  "word": "cambist",
+  "letters": 7,
+  "champions": [
+   "John Paola"
+  ],
+  "origin_raw": "French",
+  "origin": "French",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 0.0
+ },
+ {
+  "year": 1978,
+  "decade": 1970,
+  "word": "deification",
+  "letters": 11,
+  "champions": [
+   "Peg McCarthy"
+  ],
+  "origin_raw": "French",
+  "origin": "French",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 2.06
+ },
+ {
+  "year": 1979,
+  "decade": 1970,
+  "word": "maculature",
+  "letters": 10,
+  "champions": [
+   "Katie Kerwin"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 1980,
+  "decade": 1980,
+  "word": "elucubrate",
+  "letters": 10,
+  "champions": [
+   "Jacques Bailly"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 1981,
+  "decade": 1980,
+  "word": "sarcophagus",
+  "letters": 11,
+  "champions": [
+   "Paige Pipkin"
+  ],
+  "origin_raw": "French",
+  "origin": "French",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 2.79
+ },
+ {
+  "year": 1982,
+  "decade": 1980,
+  "word": "psoriasis",
+  "letters": 9,
+  "champions": [
+   "Molly Dieveney"
+  ],
+  "origin_raw": "Ancient Greek",
+  "origin": "Greek",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 2.89
+ },
+ {
+  "year": 1983,
+  "decade": 1980,
+  "word": "Purim",
+  "letters": 5,
+  "champions": [
+   "Blake Giddens"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 2.45
+ },
+ {
+  "year": 1984,
+  "decade": 1980,
+  "word": "luge",
+  "letters": 4,
+  "champions": [
+   "Daniel Greenblatt"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 2.72
+ },
+ {
+  "year": 1985,
+  "decade": 1980,
+  "word": "milieu",
+  "letters": 6,
+  "champions": [
+   "Balu Natarajan"
+  ],
+  "origin_raw": "French",
+  "origin": "French",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 2.93
+ },
+ {
+  "year": 1986,
+  "decade": 1980,
+  "word": "odontalgia",
+  "letters": 10,
+  "champions": [
+   "Jon Pennington"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 1987,
+  "decade": 1980,
+  "word": "staphylococci",
+  "letters": 13,
+  "champions": [
+   "Stephanie Petit"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 1.68
+ },
+ {
+  "year": 1988,
+  "decade": 1980,
+  "word": "elegiacal",
+  "letters": 9,
+  "champions": [
+   "Rageshree Ramachandran"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 1989,
+  "decade": 1980,
+  "word": "spoliator",
+  "letters": 9,
+  "champions": [
+   "Scott Isaacs"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 1990,
+  "decade": 1990,
+  "word": "fibranne",
+  "letters": 8,
+  "champions": [
+   "Amy Marie Dimak"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 1991,
+  "decade": 1990,
+  "word": "antipyretic",
+  "letters": 11,
+  "champions": [
+   "Joanne Marie Lagatta"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 1.67
+ },
+ {
+  "year": 1992,
+  "decade": 1990,
+  "word": "lyceum",
+  "letters": 6,
+  "champions": [
+   "Amanda Goad"
+  ],
+  "origin_raw": "Ancient Greek",
+  "origin": "Greek",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 2.64
+ },
+ {
+  "year": 1993,
+  "decade": 1990,
+  "word": "kamikaze",
+  "letters": 8,
+  "champions": [
+   "Geoff Hooper"
+  ],
+  "origin_raw": "Japanese",
+  "origin": "Japanese",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 2.87
+ },
+ {
+  "year": 1994,
+  "decade": 1990,
+  "word": "antediluvian",
+  "letters": 12,
+  "champions": [
+   "Ned G. Andrews"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 2.08
+ },
+ {
+  "year": 1995,
+  "decade": 1990,
+  "word": "xanthosis",
+  "letters": 9,
+  "champions": [
+   "Justin Tyler Carroll"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 1996,
+  "decade": 1990,
+  "word": "vivisepulture",
+  "letters": 13,
+  "champions": [
+   "Wendy Guey"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 1997,
+  "decade": 1990,
+  "word": "euonym",
+  "letters": 6,
+  "champions": [
+   "Rebecca Sealfon"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 1998,
+  "decade": 1990,
+  "word": "chiaroscurist",
+  "letters": 13,
+  "champions": [
+   "Jody-Anne Maxwell"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 1999,
+  "decade": 1990,
+  "word": "logorrhea",
+  "letters": 9,
+  "champions": [
+   "Nupur Lala"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 1.14
+ },
+ {
+  "year": 2000,
+  "decade": 2000,
+  "word": "demarche",
+  "letters": 8,
+  "champions": [
+   "George Thampy"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 1.4
+ },
+ {
+  "year": 2001,
+  "decade": 2000,
+  "word": "succedaneum",
+  "letters": 11,
+  "champions": [
+   "Sean Conley"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 2002,
+  "decade": 2000,
+  "word": "prospicience",
+  "letters": 12,
+  "champions": [
+   "Pratyush Buddiga"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 2003,
+  "decade": 2000,
+  "word": "pococurante",
+  "letters": 11,
+  "champions": [
+   "Sai Gunturi"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 2004,
+  "decade": 2000,
+  "word": "autochthonous",
+  "letters": 13,
+  "champions": [
+   "David Tidmarsh"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 2.11
+ },
+ {
+  "year": 2005,
+  "decade": 2000,
+  "word": "appoggiatura",
+  "letters": 12,
+  "champions": [
+   "Anurag Kashyap"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 1.12
+ },
+ {
+  "year": 2006,
+  "decade": 2000,
+  "word": "Ursprache",
+  "letters": 9,
+  "champions": [
+   "Kerry Close"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 2007,
+  "decade": 2000,
+  "word": "serrefine",
+  "letters": 9,
+  "champions": [
+   "Evan O'Dorney"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 2008,
+  "decade": 2000,
+  "word": "guerdon",
+  "letters": 7,
+  "champions": [
+   "Sameer Mishra"
+  ],
+  "origin_raw": "Old French",
+  "origin": "French",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 1.39
+ },
+ {
+  "year": 2009,
+  "decade": 2000,
+  "word": "Laodicean",
+  "letters": 9,
+  "champions": [
+   "Kavya Shivashankar"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 1.24
+ },
+ {
+  "year": 2010,
+  "decade": 2010,
+  "word": "stromuhr",
+  "letters": 8,
+  "champions": [
+   "Anamika Veeramani"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 2011,
+  "decade": 2010,
+  "word": "cymotrichous",
+  "letters": 12,
+  "champions": [
+   "Sukanya Roy"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 2012,
+  "decade": 2010,
+  "word": "guetapens",
+  "letters": 9,
+  "champions": [
+   "Snigdha Nandipati"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 2013,
+  "decade": 2010,
+  "word": "knaidel",
+  "letters": 7,
+  "champions": [
+   "Arvind Mahankali"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 2014,
+  "decade": 2010,
+  "word": "stichomythia",
+  "letters": 12,
+  "champions": [
+   "Sriram J. Hathwar"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 2014,
+  "decade": 2010,
+  "word": "feuilleton",
+  "letters": 10,
+  "champions": [
+   "Ansun Sujoe"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 1.47
+ },
+ {
+  "year": 2015,
+  "decade": 2010,
+  "word": "nunatak",
+  "letters": 7,
+  "champions": [
+   "Vanya Shivashankar"
+  ],
+  "origin_raw": "Kalaallisut",
+  "origin": "Kalaallisut",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 1.31
+ },
+ {
+  "year": 2015,
+  "decade": 2010,
+  "word": "scherenschnitte",
+  "letters": 15,
+  "champions": [
+   "Gokul Venkatachalam"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 2016,
+  "decade": 2010,
+  "word": "Feldenkrais",
+  "letters": 11,
+  "champions": [
+   "Jairam Hathwar"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 1.43
+ },
+ {
+  "year": 2016,
+  "decade": 2010,
+  "word": "gesellschaft",
+  "letters": 12,
+  "champions": [
+   "Nihar Saireddy Janga"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 2.62
+ },
+ {
+  "year": 2017,
+  "decade": 2010,
+  "word": "marocain",
+  "letters": 8,
+  "champions": [
+   "Ananya Vinay"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 1.27
+ },
+ {
+  "year": 2018,
+  "decade": 2010,
+  "word": "koinonia",
+  "letters": 8,
+  "champions": [
+   "Karthik Nemmani"
+  ],
+  "origin_raw": "Ancient Greek",
+  "origin": "Greek",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 1.7
+ },
+ {
+  "year": 2019,
+  "decade": 2010,
+  "word": "auslaut",
+  "letters": 7,
+  "champions": [
+   "Rishik Gandhasri"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 2019,
+  "decade": 2010,
+  "word": "erysipelas",
+  "letters": 10,
+  "champions": [
+   "Erin Howard"
+  ],
+  "origin_raw": "Ancient Greek",
+  "origin": "Greek",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 1.66
+ },
+ {
+  "year": 2019,
+  "decade": 2010,
+  "word": "bougainvillea",
+  "letters": 13,
+  "champions": [
+   "Saketh Sundar"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 2.11
+ },
+ {
+  "year": 2019,
+  "decade": 2010,
+  "word": "aiguillette",
+  "letters": 11,
+  "champions": [
+   "Shruthika Padhy"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 2019,
+  "decade": 2010,
+  "word": "pendeloque",
+  "letters": 10,
+  "champions": [
+   "Sohum Sukhatankar"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 2019,
+  "decade": 2010,
+  "word": "palama",
+  "letters": 6,
+  "champions": [
+   "Abhijay Kodali"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 2019,
+  "decade": 2010,
+  "word": "cernuous",
+  "letters": 8,
+  "champions": [
+   "Christopher Serrao"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 2019,
+  "decade": 2010,
+  "word": "odylic",
+  "letters": 6,
+  "champions": [
+   "Rohan Raja"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 2021,
+  "decade": 2020,
+  "word": "murraya",
+  "letters": 7,
+  "champions": [
+   "Zaila Avant-garde"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 2022,
+  "decade": 2020,
+  "word": "moorhen",
+  "letters": 7,
+  "champions": [
+   "Harini Logan"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 1.59
+ },
+ {
+  "year": 2023,
+  "decade": 2020,
+  "word": "psammophile",
+  "letters": 11,
+  "champions": [
+   "Dev Shah"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 0.0
+ },
+ {
+  "year": 2024,
+  "decade": 2020,
+  "word": "abseil",
+  "letters": 6,
+  "champions": [
+   "Bruhat Soma"
+  ],
+  "origin_raw": "German",
+  "origin": "German",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 1.89
+ },
+ {
+  "year": 2025,
+  "decade": 2020,
+  "word": "éclaircissement",
+  "letters": 15,
+  "champions": [
+   "Faizan Zaki"
+  ],
+  "origin_raw": "French",
+  "origin": "French",
+  "origin_source": "Etymological Wordnet (ety)",
+  "zipf": 0.0
+ },
+ {
+  "year": 2026,
+  "decade": 2020,
+  "word": "bromocriptine",
+  "letters": 13,
+  "champions": [
+   "Shrey Parikh"
+  ],
+  "origin_raw": null,
+  "origin": "Unknown",
+  "origin_source": null,
+  "zipf": 1.47
+ }
+]

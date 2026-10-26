@@ -1,0 +1,1399 @@
+{
+ "generated": "2026-10-26",
+ "headline": {
+  "first_year": 1925,
+  "latest_year": 2026,
+  "bees_held": 98,
+  "champions": 111,
+  "words": 108,
+  "cancelled": [
+   {
+    "year": 1943,
+    "reason": "World War II"
+   },
+   {
+    "year": 1944,
+    "reason": "World War II"
+   },
+   {
+    "year": 1945,
+    "reason": "World War II"
+   },
+   {
+    "year": 2020,
+    "reason": "COVID-19 pandemic"
+   }
+  ],
+  "co_champion_years": [
+   {
+    "year": 1950,
+    "champions": 2
+   },
+   {
+    "year": 1957,
+    "champions": 2
+   },
+   {
+    "year": 1962,
+    "champions": 2
+   },
+   {
+    "year": 2014,
+    "champions": 2
+   },
+   {
+    "year": 2015,
+    "champions": 2
+   },
+   {
+    "year": 2016,
+    "champions": 2
+   },
+   {
+    "year": 2019,
+    "champions": 8
+   }
+  ],
+  "spell_off_years": [
+   2022,
+   2026
+  ],
+  "repeat_words": [
+   {
+    "word": "eczema",
+    "years": [
+     1936,
+     1965
+    ]
+   }
+  ],
+  "latest_champion": [
+   {
+    "name": "Shrey Parikh",
+    "word": "bromocriptine",
+    "age": 14,
+    "place": "Rancho Cucamonga, California"
+   }
+  ]
+ },
+ "length": {
+  "slope_per_decade": 0.12,
+  "fit": {
+   "intercept": -14.576353478921448,
+   "slope": 0.012020213423578483
+  },
+  "era_means": [
+   {
+    "era": "1925–1959",
+    "mean": 9
+   },
+   {
+    "era": "1960–1999",
+    "mean": 9
+   },
+   {
+    "era": "2000–2026",
+    "mean": 9.7
+   }
+  ],
+  "longest": [
+   {
+    "word": "scherenschnitte",
+    "year": 2015
+   },
+   {
+    "word": "éclaircissement",
+    "year": 2025
+   }
+  ],
+  "longest_letters": 15,
+  "shortest": [
+   {
+    "word": "luge",
+    "year": 1984
+   }
+  ],
+  "shortest_letters": 4
+ },
+ "region": {
+  "totals": {
+   "Northeast": 17,
+   "Midwest": 32,
+   "South": 44,
+   "West": 16,
+   "Outside the 50 states": 2
+  },
+  "midwest_share_pre1960": 50,
+  "midwest_share_2000s": 22,
+  "south_share_pre1960": 29,
+  "south_share_2000s": 39,
+  "texas_2000s": 9,
+  "recent_count": 36,
+  "by_decade": [
+   {
+    "decade": 1920,
+    "region": "Northeast",
+    "count": 0,
+    "share": 0
+   },
+   {
+    "decade": 1920,
+    "region": "Midwest",
+    "count": 3,
+    "share": 60
+   },
+   {
+    "decade": 1920,
+    "region": "South",
+    "count": 2,
+    "share": 40
+   },
+   {
+    "decade": 1920,
+    "region": "West",
+    "count": 0,
+    "share": 0
+   },
+   {
+    "decade": 1920,
+    "region": "Outside the 50 states",
+    "count": 0,
+    "share": 0
+   },
+   {
+    "decade": 1930,
+    "region": "Northeast",
+    "count": 2,
+    "share": 20
+   },
+   {
+    "decade": 1930,
+    "region": "Midwest",
+    "count": 6,
+    "share": 60
+   },
+   {
+    "decade": 1930,
+    "region": "South",
+    "count": 2,
+    "share": 20
+   },
+   {
+    "decade": 1930,
+    "region": "West",
+    "count": 0,
+    "share": 0
+   },
+   {
+    "decade": 1930,
+    "region": "Outside the 50 states",
+    "count": 0,
+    "share": 0
+   },
+   {
+    "decade": 1940,
+    "region": "Northeast",
+    "count": 0,
+    "share": 0
+   },
+   {
+    "decade": 1940,
+    "region": "Midwest",
+    "count": 4,
+    "share": 57
+   },
+   {
+    "decade": 1940,
+    "region": "South",
+    "count": 3,
+    "share": 43
+   },
+   {
+    "decade": 1940,
+    "region": "West",
+    "count": 0,
+    "share": 0
+   },
+   {
+    "decade": 1940,
+    "region": "Outside the 50 states",
+    "count": 0,
+    "share": 0
+   },
+   {
+    "decade": 1950,
+    "region": "Northeast",
+    "count": 2,
+    "share": 17
+   },
+   {
+    "decade": 1950,
+    "region": "Midwest",
+    "count": 4,
+    "share": 33
+   },
+   {
+    "decade": 1950,
+    "region": "South",
+    "count": 3,
+    "share": 25
+   },
+   {
+    "decade": 1950,
+    "region": "West",
+    "count": 3,
+    "share": 25
+   },
+   {
+    "decade": 1950,
+    "region": "Outside the 50 states",
+    "count": 0,
+    "share": 0
+   },
+   {
+    "decade": 1960,
+    "region": "Northeast",
+    "count": 0,
+    "share": 0
+   },
+   {
+    "decade": 1960,
+    "region": "Midwest",
+    "count": 4,
+    "share": 36
+   },
+   {
+    "decade": 1960,
+    "region": "South",
+    "count": 7,
+    "share": 64
+   },
+   {
+    "decade": 1960,
+    "region": "West",
+    "count": 0,
+    "share": 0
+   },
+   {
+    "decade": 1960,
+    "region": "Outside the 50 states",
+    "count": 0,
+    "share": 0
+   },
+   {
+    "decade": 1970,
+    "region": "Northeast",
+    "count": 3,
+    "share": 30
+   },
+   {
+    "decade": 1970,
+    "region": "Midwest",
+    "count": 1,
+    "share": 10
+   },
+   {
+    "decade": 1970,
+    "region": "South",
+    "count": 4,
+    "share": 40
+   },
+   {
+    "decade": 1970,
+    "region": "West",
+    "count": 1,
+    "share": 10
+   },
+   {
+    "decade": 1970,
+    "region": "Outside the 50 states",
+    "count": 1,
+    "share": 10
+   },
+   {
+    "decade": 1980,
+    "region": "Northeast",
+    "count": 2,
+    "share": 20
+   },
+   {
+    "decade": 1980,
+    "region": "Midwest",
+    "count": 1,
+    "share": 10
+   },
+   {
+    "decade": 1980,
+    "region": "South",
+    "count": 3,
+    "share": 30
+   },
+   {
+    "decade": 1980,
+    "region": "West",
+    "count": 4,
+    "share": 40
+   },
+   {
+    "decade": 1980,
+    "region": "Outside the 50 states",
+    "count": 0,
+    "share": 0
+   },
+   {
+    "decade": 1990,
+    "region": "Northeast",
+    "count": 1,
+    "share": 10
+   },
+   {
+    "decade": 1990,
+    "region": "Midwest",
+    "count": 1,
+    "share": 10
+   },
+   {
+    "decade": 1990,
+    "region": "South",
+    "count": 6,
+    "share": 60
+   },
+   {
+    "decade": 1990,
+    "region": "West",
+    "count": 1,
+    "share": 10
+   },
+   {
+    "decade": 1990,
+    "region": "Outside the 50 states",
+    "count": 1,
+    "share": 10
+   },
+   {
+    "decade": 2000,
+    "region": "Northeast",
+    "count": 1,
+    "share": 10
+   },
+   {
+    "decade": 2000,
+    "region": "Midwest",
+    "count": 5,
+    "share": 50
+   },
+   {
+    "decade": 2000,
+    "region": "South",
+    "count": 1,
+    "share": 10
+   },
+   {
+    "decade": 2000,
+    "region": "West",
+    "count": 3,
+    "share": 30
+   },
+   {
+    "decade": 2000,
+    "region": "Outside the 50 states",
+    "count": 0,
+    "share": 0
+   },
+   {
+    "decade": 2010,
+    "region": "Northeast",
+    "count": 6,
+    "share": 30
+   },
+   {
+    "decade": 2010,
+    "region": "Midwest",
+    "count": 3,
+    "share": 15
+   },
+   {
+    "decade": 2010,
+    "region": "South",
+    "count": 8,
+    "share": 40
+   },
+   {
+    "decade": 2010,
+    "region": "West",
+    "count": 3,
+    "share": 15
+   },
+   {
+    "decade": 2010,
+    "region": "Outside the 50 states",
+    "count": 0,
+    "share": 0
+   },
+   {
+    "decade": 2020,
+    "region": "Northeast",
+    "count": 0,
+    "share": 0
+   },
+   {
+    "decade": 2020,
+    "region": "Midwest",
+    "count": 0,
+    "share": 0
+   },
+   {
+    "decade": 2020,
+    "region": "South",
+    "count": 5,
+    "share": 83
+   },
+   {
+    "decade": 2020,
+    "region": "West",
+    "count": 1,
+    "share": 17
+   },
+   {
+    "decade": 2020,
+    "region": "Outside the 50 states",
+    "count": 0,
+    "share": 0
+   }
+  ]
+ },
+ "age": {
+  "known": 111,
+  "mean": 13.1,
+  "median": 13,
+  "counts": {
+   "11": 3,
+   "12": 20,
+   "13": 54,
+   "14": 34
+  },
+  "min": 11,
+  "max": 14,
+  "youngest": [
+   {
+    "name": "Frank Neuhauser",
+    "year": 1925
+   },
+   {
+    "name": "Richard Earnhart",
+    "year": 1942
+   },
+   {
+    "name": "Nihar Saireddy Janga",
+    "year": 2016
+   }
+  ],
+  "modal": 13,
+  "era_means": [
+   {
+    "era": "1925–1959",
+    "mean": 12.9
+   },
+   {
+    "era": "1960–1999",
+    "mean": 13.1
+   },
+   {
+    "era": "2000–2026",
+    "mean": 13.1
+   }
+  ]
+ },
+ "geography": {
+  "states_with_champion": 30,
+  "top_states": [
+   {
+    "state": "TX",
+    "count": 17
+   },
+   {
+    "state": "OH",
+    "count": 9
+   },
+   {
+    "state": "TN",
+    "count": 7
+   },
+   {
+    "state": "PA",
+    "count": 7
+   },
+   {
+    "state": "CO",
+    "count": 7
+   }
+  ],
+  "top_cities": [
+   {
+    "place": "Denver, CO",
+    "count": 7,
+    "lat": 39.73915,
+    "lon": -104.9847,
+    "years": [
+     1957,
+     1959,
+     1979,
+     1980,
+     1982,
+     1989,
+     2002
+    ]
+   },
+   {
+    "place": "Akron, OH",
+    "count": 5,
+    "lat": 41.08144,
+    "lon": -81.51901,
+    "years": [
+     1927,
+     1933,
+     1935,
+     1948,
+     1964
+    ]
+   },
+   {
+    "place": "Louisville, KY",
+    "count": 4,
+    "lat": 38.25424,
+    "lon": -85.75941,
+    "years": [
+     1925,
+     1926,
+     1937,
+     1938
+    ]
+   },
+   {
+    "place": "Des Moines, IA",
+    "count": 4,
+    "lat": 41.60054,
+    "lon": -93.60911,
+    "years": [
+     1930,
+     1932,
+     1936,
+     1946
+    ]
+   },
+   {
+    "place": "Knoxville, TN",
+    "count": 4,
+    "lat": 35.96064,
+    "lon": -83.92074,
+    "years": [
+     1940,
+     1960,
+     1963,
+     1994
+    ]
+   }
+  ],
+  "denver_last": 2002,
+  "outside_us_states": [
+   {
+    "name": "Hugh Tosteson García",
+    "year": 1975,
+    "place": "San Juan, Puerto Rico"
+   },
+   {
+    "name": "Jody-Anne Maxwell",
+    "year": 1998,
+    "place": "Kingston, Jamaica"
+   }
+  ],
+  "cities": [
+   {
+    "place": "Denver, CO",
+    "count": 7,
+    "lat": 39.73915,
+    "lon": -104.9847,
+    "years": [
+     1957,
+     1959,
+     1979,
+     1980,
+     1982,
+     1989,
+     2002
+    ]
+   },
+   {
+    "place": "Akron, OH",
+    "count": 5,
+    "lat": 41.08144,
+    "lon": -81.51901,
+    "years": [
+     1927,
+     1933,
+     1935,
+     1948,
+     1964
+    ]
+   },
+   {
+    "place": "Louisville, KY",
+    "count": 4,
+    "lat": 38.25424,
+    "lon": -85.75941,
+    "years": [
+     1925,
+     1926,
+     1937,
+     1938
+    ]
+   },
+   {
+    "place": "Des Moines, IA",
+    "count": 4,
+    "lat": 41.60054,
+    "lon": -93.60911,
+    "years": [
+     1930,
+     1932,
+     1936,
+     1946
+    ]
+   },
+   {
+    "place": "Knoxville, TN",
+    "count": 4,
+    "lat": 35.96064,
+    "lon": -83.92074,
+    "years": [
+     1940,
+     1960,
+     1963,
+     1994
+    ]
+   },
+   {
+    "place": "El Paso, TX",
+    "count": 4,
+    "lat": 31.75872,
+    "lon": -106.48693,
+    "years": [
+     1942,
+     1962,
+     1981,
+     1983
+    ]
+   },
+   {
+    "place": "St. Louis, MO",
+    "count": 4,
+    "lat": 38.62727,
+    "lon": -90.19789,
+    "years": [
+     1955,
+     1962,
+     2000,
+     2015
+    ]
+   },
+   {
+    "place": "Memphis, TN",
+    "count": 3,
+    "lat": 35.14953,
+    "lon": -90.04898,
+    "years": [
+     1951,
+     1993,
+     1995
+    ]
+   },
+   {
+    "place": "Pittsburgh, PA",
+    "count": 3,
+    "lat": 40.44062,
+    "lon": -79.99589,
+    "years": [
+     1956,
+     1977,
+     1987
+    ]
+   },
+   {
+    "place": "Topeka, KS",
+    "count": 3,
+    "lat": 39.04833,
+    "lon": -95.67804,
+    "years": [
+     1958,
+     1968,
+     1978
+    ]
+   },
+   {
+    "place": "Dallas, TX",
+    "count": 3,
+    "lat": 32.78306,
+    "lon": -96.80667,
+    "years": [
+     1969,
+     2003,
+     2019
+    ]
+   },
+   {
+    "place": "South Bend, IN",
+    "count": 2,
+    "lat": 41.68338,
+    "lon": -86.25001,
+    "years": [
+     1928,
+     2004
+    ]
+   },
+   {
+    "place": "Omaha, NE",
+    "count": 2,
+    "lat": 41.25626,
+    "lon": -95.94043,
+    "years": [
+     1929,
+     1967
+    ]
+   },
+   {
+    "place": "Atlanta, GA",
+    "count": 2,
+    "lat": 33.749,
+    "lon": -84.38798,
+    "years": [
+     1947,
+     1950
+    ]
+   },
+   {
+    "place": "Canton, OH",
+    "count": 2,
+    "lat": 40.79895,
+    "lon": -81.37845,
+    "years": [
+     1949,
+     1957
+    ]
+   },
+   {
+    "place": "Cleveland, OH",
+    "count": 2,
+    "lat": 41.4995,
+    "lon": -81.69541,
+    "years": [
+     1950,
+     2010
+    ]
+   },
+   {
+    "place": "Winston-Salem, NC",
+    "count": 2,
+    "lat": 36.09986,
+    "lon": -80.24422,
+    "years": [
+     1952,
+     1970
+    ]
+   },
+   {
+    "place": "Tulsa, OK",
+    "count": 2,
+    "lat": 36.15398,
+    "lon": -95.99277,
+    "years": [
+     1961,
+     1965
+    ]
+   },
+   {
+    "place": "Fort Worth, TX",
+    "count": 2,
+    "lat": 32.72541,
+    "lon": -97.32085,
+    "years": [
+     1973,
+     2014
+    ]
+   },
+   {
+    "place": "New York City, NY",
+    "count": 2,
+    "lat": 40.71427,
+    "lon": -74.00597,
+    "years": [
+     1997,
+     2013
+    ]
+   },
+   {
+    "place": "San Diego, CA",
+    "count": 2,
+    "lat": 32.71571,
+    "lon": -117.16472,
+    "years": [
+     2005,
+     2012
+    ]
+   },
+   {
+    "place": "Olathe, KS",
+    "count": 2,
+    "lat": 38.8814,
+    "lon": -94.81913,
+    "years": [
+     2009,
+     2015
+    ]
+   },
+   {
+    "place": "Corning, NY",
+    "count": 2,
+    "lat": 42.14285,
+    "lon": -77.05469,
+    "years": [
+     2014,
+     2016
+    ]
+   },
+   {
+    "place": "White Hall, IL",
+    "count": 1,
+    "lat": 39.43699,
+    "lon": -90.40318,
+    "years": [
+     1931
+    ]
+   },
+   {
+    "place": "Portland, ME",
+    "count": 1,
+    "lat": 43.65737,
+    "lon": -70.2589,
+    "years": [
+     1934
+    ]
+   },
+   {
+    "place": "Worcester, MA",
+    "count": 1,
+    "lat": 42.26259,
+    "lon": -71.80229,
+    "years": [
+     1939
+    ]
+   },
+   {
+    "place": "Detroit, MI",
+    "count": 1,
+    "lat": 42.33143,
+    "lon": -83.04575,
+    "years": [
+     1941
+    ]
+   },
+   {
+    "place": "Phoenix, AZ",
+    "count": 1,
+    "lat": 33.44838,
+    "lon": -112.07404,
+    "years": [
+     1953
+    ]
+   },
+   {
+    "place": "Norristown, PA",
+    "count": 1,
+    "lat": 40.1215,
+    "lon": -75.3399,
+    "years": [
+     1954
+    ]
+   },
+   {
+    "place": "Houston, TX",
+    "count": 1,
+    "lat": 29.76328,
+    "lon": -95.36327,
+    "years": [
+     1966
+    ]
+   },
+   {
+    "place": "Philadelphia, PA",
+    "count": 1,
+    "lat": 39.95233,
+    "lon": -75.16379,
+    "years": [
+     1971
+    ]
+   },
+   {
+    "place": "Lubbock, TX",
+    "count": 1,
+    "lat": 33.57786,
+    "lon": -101.85517,
+    "years": [
+     1972
+    ]
+   },
+   {
+    "place": "Birmingham, AL",
+    "count": 1,
+    "lat": 33.52066,
+    "lon": -86.80249,
+    "years": [
+     1974
+    ]
+   },
+   {
+    "place": "San Juan, Puerto Rico",
+    "count": 1,
+    "lat": 18.46633,
+    "lon": -66.10572,
+    "years": [
+     1975
+    ]
+   },
+   {
+    "place": "Syracuse, NY",
+    "count": 1,
+    "lat": 43.04812,
+    "lon": -76.14742,
+    "years": [
+     1976
+    ]
+   },
+   {
+    "place": "Leesburg, VA",
+    "count": 1,
+    "lat": 39.11566,
+    "lon": -77.5636,
+    "years": [
+     1984
+    ]
+   },
+   {
+    "place": "Chicago, IL",
+    "count": 1,
+    "lat": 41.85003,
+    "lon": -87.65005,
+    "years": [
+     1985
+    ]
+   },
+   {
+    "place": "Harrisburg, PA",
+    "count": 1,
+    "lat": 40.2737,
+    "lon": -76.88442,
+    "years": [
+     1986
+    ]
+   },
+   {
+    "place": "Sacramento, CA",
+    "count": 1,
+    "lat": 38.58157,
+    "lon": -121.4944,
+    "years": [
+     1988
+    ]
+   },
+   {
+    "place": "Seattle, WA",
+    "count": 1,
+    "lat": 47.60621,
+    "lon": -122.33207,
+    "years": [
+     1990
+    ]
+   },
+   {
+    "place": "Clintonville, WI",
+    "count": 1,
+    "lat": 44.62053,
+    "lon": -88.76232,
+    "years": [
+     1991
+    ]
+   },
+   {
+    "place": "Richmond, VA",
+    "count": 1,
+    "lat": 37.55376,
+    "lon": -77.46026,
+    "years": [
+     1992
+    ]
+   },
+   {
+    "place": "West Palm Beach, FL",
+    "count": 1,
+    "lat": 26.71534,
+    "lon": -80.05337,
+    "years": [
+     1996
+    ]
+   },
+   {
+    "place": "Kingston, Jamaica",
+    "count": 1,
+    "lat": 17.99702,
+    "lon": -76.79358,
+    "years": [
+     1998
+    ]
+   },
+   {
+    "place": "Tampa, FL",
+    "count": 1,
+    "lat": 27.94752,
+    "lon": -82.45843,
+    "years": [
+     1999
+    ]
+   },
+   {
+    "place": "Aitkin, MN",
+    "count": 1,
+    "lat": 46.53301,
+    "lon": -93.71025,
+    "years": [
+     2001
+    ]
+   },
+   {
+    "place": "Spring Lake, NJ",
+    "count": 1,
+    "lat": 40.15345,
+    "lon": -74.02819,
+    "years": [
+     2006
+    ]
+   },
+   {
+    "place": "Walnut Creek, CA",
+    "count": 1,
+    "lat": 37.90631,
+    "lon": -122.06496,
+    "years": [
+     2007
+    ]
+   },
+   {
+    "place": "West Lafayette, IN",
+    "count": 1,
+    "lat": 40.42587,
+    "lon": -86.90807,
+    "years": [
+     2008
+    ]
+   },
+   {
+    "place": "Wilkes-Barre, PA",
+    "count": 1,
+    "lat": 41.24591,
+    "lon": -75.88131,
+    "years": [
+     2011
+    ]
+   },
+   {
+    "place": "Austin, TX",
+    "count": 1,
+    "lat": 30.26715,
+    "lon": -97.74306,
+    "years": [
+     2016
+    ]
+   },
+   {
+    "place": "Fresno, CA",
+    "count": 1,
+    "lat": 36.74773,
+    "lon": -119.77237,
+    "years": [
+     2017
+    ]
+   },
+   {
+    "place": "McKinney, TX",
+    "count": 1,
+    "lat": 33.19762,
+    "lon": -96.61527,
+    "years": [
+     2018
+    ]
+   },
+   {
+    "place": "San Jose, CA",
+    "count": 1,
+    "lat": 37.33939,
+    "lon": -121.89496,
+    "years": [
+     2019
+    ]
+   },
+   {
+    "place": "Huntsville, AL",
+    "count": 1,
+    "lat": 34.7304,
+    "lon": -86.58594,
+    "years": [
+     2019
+    ]
+   },
+   {
+    "place": "Clarksville, MD",
+    "count": 1,
+    "lat": 39.2052,
+    "lon": -76.951,
+    "years": [
+     2019
+    ]
+   },
+   {
+    "place": "Cherry Hill, NJ",
+    "count": 1,
+    "lat": 39.93484,
+    "lon": -75.03073,
+    "years": [
+     2019
+    ]
+   },
+   {
+    "place": "Flower Mound, TX",
+    "count": 1,
+    "lat": 33.01457,
+    "lon": -97.09696,
+    "years": [
+     2019
+    ]
+   },
+   {
+    "place": "Whitehouse Station, NJ",
+    "count": 1,
+    "lat": 40.61538,
+    "lon": -74.77044,
+    "years": [
+     2019
+    ]
+   },
+   {
+    "place": "Irving, TX",
+    "count": 1,
+    "lat": 32.81402,
+    "lon": -96.94889,
+    "years": [
+     2019
+    ]
+   },
+   {
+    "place": "New Orleans, LA",
+    "count": 1,
+    "lat": 29.95465,
+    "lon": -90.07507,
+    "years": [
+     2021
+    ]
+   },
+   {
+    "place": "San Antonio, TX",
+    "count": 1,
+    "lat": 29.42412,
+    "lon": -98.49363,
+    "years": [
+     2022
+    ]
+   },
+   {
+    "place": "Largo, FL",
+    "count": 1,
+    "lat": 27.90979,
+    "lon": -82.78842,
+    "years": [
+     2023
+    ]
+   },
+   {
+    "place": "St. Petersburg, FL",
+    "count": 1,
+    "lat": 27.77086,
+    "lon": -82.67927,
+    "years": [
+     2024
+    ]
+   },
+   {
+    "place": "Allen, TX",
+    "count": 1,
+    "lat": 33.10317,
+    "lon": -96.67055,
+    "years": [
+     2025
+    ]
+   },
+   {
+    "place": "Rancho Cucamonga, CA",
+    "count": 1,
+    "lat": 34.1064,
+    "lon": -117.59311,
+    "years": [
+     2026
+    ]
+   }
+  ]
+ },
+ "rarity": {
+  "era": [
+   {
+    "era": "1925–1959",
+    "words": 32,
+    "median_zipf": 2.57,
+    "absent_share": 13
+   },
+   {
+    "era": "1960–1999",
+    "words": 40,
+    "median_zipf": 1.67,
+    "absent_share": 40
+   },
+   {
+    "era": "2000–2026",
+    "words": 36,
+    "median_zipf": 0,
+    "absent_share": 56
+   }
+  ],
+  "most_common": [
+   {
+    "word": "therapy",
+    "year": 1940,
+    "zipf": 4.52
+   },
+   {
+    "word": "psychiatry",
+    "year": 1948,
+    "zipf": 3.56
+   },
+   {
+    "word": "brethren",
+    "year": 1934,
+    "zipf": 3.51
+   }
+  ],
+  "last_common_year": 1967,
+  "last_common_word": "chihuahua"
+ },
+ "newspapers": {
+  "by_decade": [
+   {
+    "decade": 1920,
+    "champions": 5,
+    "newspaper": 5,
+    "share": 100
+   },
+   {
+    "decade": 1930,
+    "champions": 10,
+    "newspaper": 10,
+    "share": 100
+   },
+   {
+    "decade": 1940,
+    "champions": 7,
+    "newspaper": 7,
+    "share": 100
+   },
+   {
+    "decade": 1950,
+    "champions": 12,
+    "newspaper": 12,
+    "share": 100
+   },
+   {
+    "decade": 1960,
+    "champions": 11,
+    "newspaper": 11,
+    "share": 100
+   },
+   {
+    "decade": 1970,
+    "champions": 10,
+    "newspaper": 10,
+    "share": 100
+   },
+   {
+    "decade": 1980,
+    "champions": 10,
+    "newspaper": 10,
+    "share": 100
+   },
+   {
+    "decade": 1990,
+    "champions": 10,
+    "newspaper": 9,
+    "share": 90
+   },
+   {
+    "decade": 2000,
+    "champions": 10,
+    "newspaper": 10,
+    "share": 100
+   },
+   {
+    "decade": 2010,
+    "champions": 20,
+    "newspaper": 7,
+    "share": 35
+   },
+   {
+    "decade": 2020,
+    "champions": 6,
+    "newspaper": 0,
+    "share": 0
+   }
+  ],
+  "overall_share": 82,
+  "first_non_newspaper": {
+   "year": 1998,
+   "name": "Jody-Anne Maxwell",
+   "sponsor": "Phillips & Phillips Stationery Suppliers"
+  },
+  "last_newspaper": {
+   "year": 2017,
+   "name": "Ananya Vinay",
+   "sponsor": "The Fresno Bee"
+  },
+  "unbroken_newspaper_until": 1997,
+  "since_last_newspaper": 15,
+  "rocky_mountain_news": 7,
+  "types_recent": [
+   {
+    "type": "tourism/sports body",
+    "count": 6
+   },
+   {
+    "type": "library/school",
+    "count": 4
+   },
+   {
+    "type": "regional bee",
+    "count": 2
+   },
+   {
+    "type": "civic group",
+    "count": 2
+   },
+   {
+    "type": "business",
+    "count": 1
+   }
+  ]
+ }
+}
