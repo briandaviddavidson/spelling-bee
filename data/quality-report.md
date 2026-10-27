@@ -1,6 +1,6 @@
 # Data quality report
 
-Generated 2026-10-26 from data/raw/*.tsv. 111 champion rows, 108 words.
+Generated 2026-10-27 from data/raw/*.tsv. 111 champion rows, 108 words.
 
 ## Source disagreements (Wikipedia vs. official history site)
 

@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Spelled to Victory</title>
+  <meta name="description" content="A century of Scripps National Spelling Bee champions and the words that won it, told through data." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./src/style.css" />
+</head>
+<body>
+  <header class="hero">
+    <p class="kicker">A data story · 1925–<span data-f="latest"></span></p>
+    <h1>Spelled to <span class="hl">Victory</span></h1>
+    <p class="dek" id="dek"></p>
+    <dl class="stats" id="stats"></dl>
+  </header>
+
+  <main>
+    <section class="chart" id="length">
+      <h2 data-title></h2><p class="caption" data-caption></p>
+      <div class="plot" role="img"></div>
+      <details class="table"><summary>Show the data</summary><div></div></details>
+      <p class="source" data-source></p>
+    </section>
+
+    <section class="chart" id="rarity">
+      <h2 data-title></h2><p class="caption" data-caption></p>
+      <div class="plot" role="img"></div>
+      <details class="table"><summary>Show the data</summary><div></div></details>
+      <p class="source" data-source></p>
+    </section>
+
+    <section class="chart" id="ages">
+      <h2 data-title></h2><p class="caption" data-caption></p>
+      <div class="plot" role="img"></div>
+      <details class="table"><summary>Show the data</summary><div></div></details>
+      <p class="source" data-source></p>
+    </section>
+
+    <section class="chart" id="region">
+      <h2 data-title></h2><p class="caption" data-caption></p>
+      <div class="legend" aria-hidden="true"></div>
+      <div class="plot" role="img"></div>
+      <details class="table"><summary>Show the data</summary><div></div></details>
+      <p class="source" data-source></p>
+    </section>
+
+    <section class="chart" id="map">
+      <h2 data-title></h2><p class="caption" data-caption></p>
+      <div class="plot map" role="img"></div>
+      <p class="note" data-note></p>
+      <details class="table"><summary>Show the data</summary><div></div></details>
+      <p class="source" data-source></p>
+    </section>
+
+    <section class="chart" id="newspapers">
+      <h2 data-title></h2><p class="caption" data-caption></p>
+      <div class="legend" aria-hidden="true"></div>
+      <div class="plot" role="img"></div>
+      <details class="table"><summary>Show the data</summary><div></div></details>
+      <p class="source" data-source></p>
+    </section>
+
+    <section class="chart game" id="game">
+      <h2>Can you spell the winner?</h2>
+      <p class="caption">Hear a championship word, type it, and see who won with it. Words are read by your browser's built-in voice, which may not match the Bee's pronouncer.</p>
+      <div class="controls">
+        <label>Decade <select id="g-decade"><option value="all">All years</option></select></label>
+        <span class="score" id="g-score" aria-live="polite"></span>
+      </div>
+      <div class="card">
+        <div class="buttons">
+          <button id="g-say" class="primary" type="button">▶ Hear the word</button>
+          <button id="g-def" type="button">Letter count</button>
+          <button id="g-skip" type="button">New word</button>
+        </div>
+        <form id="g-form" autocomplete="off">
+          <label class="sr" for="g-input">Your spelling</label>
+          <input id="g-input" spellcheck="false" autocapitalize="off" autocorrect="off" placeholder="Your spelling" />
+          <button type="submit" class="primary">Check</button>
+        </form>
+        <div id="g-result" class="result" aria-live="polite"></div>
+      </div>
+      <details class="table"><summary>Browse every winning word</summary><div id="g-table"></div></details>
+    </section>
+  </main>
+
+  <footer>
+    <p>Built from the Wikipedia list of champions, cross-checked against the Scripps National Spelling Bee's history site. Word frequencies from <code>wordfreq</code>; etymologies from Etymological Wordnet and Wiktionary where known. Not affiliated with Scripps.</p>
+    <p><a href="https://github.com/briandaviddavidson/spelling-bee">Source, data and quality report on GitHub</a></p>
+  </footer>
+  <script type="module" src="./src/main.js"></script>
+</body>
+</html>
