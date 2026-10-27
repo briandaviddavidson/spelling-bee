@@ -42,7 +42,7 @@ body {
   margin: 0; background: var(--surface-0); color: var(--text-primary);
   font: 16px/1.55 Inter, system-ui, sans-serif;
 }
-.hero, main, footer { max-width: 920px; margin: 0 auto; padding: 0 16px; }
+.hero, main, footer { max-width: 920px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
 .hero { padding-top: 56px; padding-bottom: 24px; }
 .kicker { font-size: 13px; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); font-weight: 600; margin: 0 0 8px; }
 h1 { font: 800 clamp(44px, 9vw, 84px)/0.95 Fraunces, Georgia, serif; letter-spacing: -0.02em; margin: 0 0 20px; }
